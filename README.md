@@ -1,4 +1,4 @@
-# MovieApp
+# My Movies App
 
 A flutter based app that displays the list of Popular, Top Rated and Upcoming movies.
 
@@ -10,6 +10,7 @@ A flutter based app that displays the list of Popular, Top Rated and Upcoming mo
 * Users can view the full cast
 * User can choose between three theme designs
 * User can discover various new Movies
+* Fast and efficient UI
 
 ## Screenshots (Android)
 
